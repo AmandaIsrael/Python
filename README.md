@@ -15,8 +15,8 @@ Conteúdos abordados:
 - Arquivos;
 - Dicionário;
 - Enumerate;
-2. List comprehension;
-3. Map;
-4. Reduce;
-5. Filter.
+- List comprehension;
+- Map;
+- Reduce;
+- Filter.
 
